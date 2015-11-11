@@ -6,7 +6,7 @@ Goals:
 -----
 
 * Make Users Authentication and Authorization
-* Users Roles (Adminitrator, Moderator, User)
+* Users Roles (Administrators, Moderators, Users)
 * Categories
 * Topics
 * Post
